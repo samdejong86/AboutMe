@@ -12,7 +12,7 @@ Facts = [s for s in Facts if len(s) != 0]
 
 
 
-print "I am the highly qualified, well rounded candidate for embedded software programmer that you're looking for!"
+print "I am the highly qualified, well rounded candidate that you're looking for!"
 
 
 numFacts=""
